@@ -184,11 +184,11 @@ const USER_CONFIG = {
       courseSchedule: null
     },
     {
-      name: '老婆2',
-      id: '',
-      useTemplateId: '',
-      province: '',
-      city: '',
+      name: '2',
+      id: 'onjIU5-vTLG_HxPA7hzPaXnqBv30',
+      useTemplateId: 'y846xkoC52VhVtBqXapWNwlJEcqc6cDtb5UAnMZmG00',
+      province: '湖北',
+      city: '武汉',
       horoscopeDate: '',
       horoscopeDateType: '',
       openUrl: 'https://wangxinleo.cn',
